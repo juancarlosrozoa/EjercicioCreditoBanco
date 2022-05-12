@@ -1,0 +1,9 @@
+#sizeItem{
+    font-size: 1.2rem;
+    align-items: center !important;
+    display: flex !important;
+}
+
+.sizeTitle{
+    font-size: 1.2rem;
+}

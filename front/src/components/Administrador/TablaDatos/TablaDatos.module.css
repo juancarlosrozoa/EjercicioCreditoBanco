@@ -1,0 +1,12 @@
+#celda-titulo{
+    border-radius: 20px;
+    border: 4px solid #CBDED9;
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(167,179,181,1) 100%);
+    color:black;
+    font-weight:400;
+}
+#celda-input{
+    text-align: center;
+    border-radius: 20px;
+}

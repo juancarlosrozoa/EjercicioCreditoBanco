@@ -1,0 +1,2 @@
+import AdminModificarInternalUser from "./AdminModificarInternalUser"
+export default AdminModificarInternalUser;

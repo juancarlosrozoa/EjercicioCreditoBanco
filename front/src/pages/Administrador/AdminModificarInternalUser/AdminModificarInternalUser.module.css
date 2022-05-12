@@ -1,0 +1,9 @@
+.tabla{
+    width: 100%;
+    text-align: center;
+}
+
+#celda-input{
+    text-align: center;
+    border-radius: 20px;
+}
